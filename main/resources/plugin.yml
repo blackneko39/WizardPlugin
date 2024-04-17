@@ -1,0 +1,8 @@
+name: WizardPlugin
+version: '${version}'
+main: net.blackneko.ryosuke.WizardPlugin
+api-version: '1.20'
+commands:
+  bnek:
+    description: run /bnek wand
+    usage: /bnek wand to get wand
